@@ -1,6 +1,6 @@
 # Sales Data Analysis Dashboard 📊💰
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## Project Overview
 This project analyzes 4 years (2014-2017) of U.S. superstore sales data using **Microsoft Excel** to create MIS reports and actionable insights for optimizing category performance, regional strategies, and customer engagement. By transforming raw CSV data into interactive pivot tables and a dynamic dashboard with slicers and charts, I addressed business questions on sales trends, profit margins, and geographic distribution.
