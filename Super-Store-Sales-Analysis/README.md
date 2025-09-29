@@ -1,7 +1,7 @@
 # Super Store Sales Analysis Dashboard 📊💰
 
-![Dashboard Screenshot 1](Dashboard 1.png)
-![Dashboard Screenshot 2](Dashboard 2.png)
+![Dashboard 1](Dashboard 1.png)
+![Dashboard 2](Dashboard 2.png)
 
 ## Project Overview
 This project analyzes superstore sales data from 2019 to 2021 using **Microsoft Power BI** to create an interactive dashboard with actionable insights and a 15-day sales forecast. By leveraging raw CSV data, time series analysis, and interactive visualizations, I addressed business questions on sales trends, regional performance, and forecasting to support strategic decision-making for a supermarket's growth, efficiency, and customer satisfaction.
