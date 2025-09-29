@@ -1,7 +1,7 @@
 # Super Store Sales Analysis Dashboard 📊💰
 
-![Dashboard Screenshot 1](Dashboard%201.PNG)
-![Dashboard Screenshot 2](Dashboard%202.PNG)
+![Dashboard Screenshot 1 - Top 10 States](Dashboard%201.PNG)
+![Dashboard Screenshot 2 - 15-Day Forecast](Dashboard%202.PNG)
 
 ## Project Overview
 This project analyzes superstore sales data from 2019 to 2021 using **Microsoft Power BI** to create an interactive dashboard with actionable insights and a 15-day sales forecast. By leveraging raw CSV data, time series analysis, and interactive visualizations, I addressed business questions on sales trends, regional performance, and forecasting to support strategic decision-making for a supermarket's growth, efficiency, and customer satisfaction.
@@ -44,7 +44,7 @@ This project follows a structured approach to analyzing sales data using Power B
 ### 3. Dashboard Development
 - Created DAX measures (e.g., Total Sales, Sum of Sales by State) and applied a Top N filter to display the top 10 states.
 - Designed an interactive dashboard with a 15-day sales forecast line chart, a clustered bar chart for state sales, and filters for dynamic exploration.
-- Added visualizations to highlight trends and regional performance, captured in `Dashboard 1.PNG` and `Dashboard 2.PNG`.
+- Added visualizations to highlight trends and regional performance, captured in `Dashboard 1.PNG` (Top 10 States) and `Dashboard 2.PNG` (15-Day Forecast).
 
 ### 4. Sales Forecasting
 - Leveraged historic data and applied time series analysis to generate a 15-day sales forecast using Power BI's forecasting tool.
@@ -61,8 +61,8 @@ The project delivers a comprehensive Power BI dashboard with a 15-day sales fore
 
 ## Results and Insights
 ### Overall Sales Performance
-- **Sales Forecast**: The 15-day forecast indicates a potential upward trend, with sales projected to reach 10k by January 2021, based on historical data from 2019-2020.
-- **Top States**: California and Texas lead with the highest sales, while states like Wyoming show minimal contribution, suggesting expansion opportunities.
+- **Sales Forecast**: The 15-day forecast indicates a potential upward trend, with sales projected to reach 10k by January 2021, based on historical data from 2019-2020 (visualized in `Dashboard 2.PNG`).
+- **Top States**: California and Texas lead with the highest sales, while states like Wyoming show minimal contribution, suggesting expansion opportunities (visualized in `Dashboard 1.PNG`).
 - **Seasonal Trends**: Sales peak in later months, aligning with holiday seasons, recommending targeted promotions.
 
 ### Category and Product Insights
@@ -84,8 +84,8 @@ The project delivers a comprehensive Power BI dashboard with a 15-day sales fore
 - **orders.csv**: Raw sales dataset with detailed order information.
 - **returns.csv**: Raw return dataset with transaction details.
 - **SuperStoreAnalysis.pbix**: Full Power BI report with dashboard, forecasts, and DAX measures.
-- **Dashboard 1.PNG**: Screenshot of the 15-day sales forecast view.
-- **Dashboard 2.PNG**: Screenshot of the top 10 states sales view.
+- **Dashboard 1.PNG**: Screenshot of the Top 10 States clustered bar chart view.
+- **Dashboard 2.PNG**: Screenshot of the 15-day sales forecast line chart view.
 
 ---
 
@@ -110,7 +110,7 @@ For others, this project offers a practical example of using Power BI for sales 
 2. **Explore the Dashboard**:
    - Use filters and slicers to explore sales by state, category, or date range.
 3. **Review Forecast**:
-   - Check the 15-day forecast visual and adjust settings in the Analytics pane if needed.
+   - Check the 15-day forecast visual (Dashboard 2) and adjust settings in the Analytics pane if needed.
 
 ---
 
@@ -123,3 +123,7 @@ For any questions or collaboration opportunities, please reach out to:
 ---
 
 Thank you for checking out my project! I’m excited to continue enhancing my data analytics skills and applying them to real-world challenges. 🚀
+
+---
+
+*Last Updated: 05:30 PM IST, September 29, 2025*
