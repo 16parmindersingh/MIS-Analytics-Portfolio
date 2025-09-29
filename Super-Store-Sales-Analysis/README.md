@@ -1,7 +1,7 @@
 # Super Store Sales Analysis Dashboard 📊💰
 
-![Dashboard 1](Dashboard 1.png)
-![Dashboard 2](Dashboard 2.png)
+![Dashboard Screenshot 1](Dashboard%201.PNG)
+![Dashboard Screenshot 2](Dashboard%202.PNG)
 
 ## Project Overview
 This project analyzes superstore sales data from 2019 to 2021 using **Microsoft Power BI** to create an interactive dashboard with actionable insights and a 15-day sales forecast. By leveraging raw CSV data, time series analysis, and interactive visualizations, I addressed business questions on sales trends, regional performance, and forecasting to support strategic decision-making for a supermarket's growth, efficiency, and customer satisfaction.
@@ -44,7 +44,7 @@ This project follows a structured approach to analyzing sales data using Power B
 ### 3. Dashboard Development
 - Created DAX measures (e.g., Total Sales, Sum of Sales by State) and applied a Top N filter to display the top 10 states.
 - Designed an interactive dashboard with a 15-day sales forecast line chart, a clustered bar chart for state sales, and filters for dynamic exploration.
-- Added visualizations to highlight trends and regional performance.
+- Added visualizations to highlight trends and regional performance, captured in `Dashboard 1.PNG` and `Dashboard 2.PNG`.
 
 ### 4. Sales Forecasting
 - Leveraged historic data and applied time series analysis to generate a 15-day sales forecast using Power BI's forecasting tool.
@@ -52,7 +52,7 @@ This project follows a structured approach to analyzing sales data using Power B
 
 ### 5. Insights Generation
 - Analyzed results to identify key trends, such as top-performing states and seasonal sales patterns, for management decision-making.
-- Documented findings within the Power BI report for easy reference.
+- Embedded findings within the Power BI dashboard for easy reference.
 
 ### Key Output
 The project delivers a comprehensive Power BI dashboard with a 15-day sales forecast and actionable insights, included in this repository.
@@ -84,7 +84,8 @@ The project delivers a comprehensive Power BI dashboard with a 15-day sales fore
 - **orders.csv**: Raw sales dataset with detailed order information.
 - **returns.csv**: Raw return dataset with transaction details.
 - **SuperStoreAnalysis.pbix**: Full Power BI report with dashboard, forecasts, and DAX measures.
-- **Dashboard1.png** & **Dashboard2.png**: Screenshots of the forecast and state sales views.
+- **Dashboard 1.PNG**: Screenshot of the 15-day sales forecast view.
+- **Dashboard 2.PNG**: Screenshot of the top 10 states sales view.
 
 ---
 
@@ -122,3 +123,7 @@ For any questions or collaboration opportunities, please reach out to:
 ---
 
 Thank you for checking out my project! I’m excited to continue enhancing my data analytics skills and applying them to real-world challenges. 🚀
+
+---
+
+*Last Updated: 04:44 PM IST, September 29, 2025*
