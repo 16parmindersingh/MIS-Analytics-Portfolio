@@ -123,7 +123,3 @@ For any questions or collaboration opportunities, please reach out to:
 ---
 
 Thank you for checking out my project! I’m excited to continue enhancing my data analytics skills and applying them to real-world challenges. 🚀
-
----
-
-*Last Updated: 04:44 PM IST, September 29, 2025*
