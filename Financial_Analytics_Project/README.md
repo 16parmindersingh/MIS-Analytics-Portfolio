@@ -1,14 +1,19 @@
 # Financial Analytics Project 📊📈
 
-## Project Overview
-This project delivers a robust Excel-based analytics suite designed for an MIS Analyst role, analyzing financial performance, geographic trends, sales processes, and project workflows. Built entirely in Excel with no macros or VBA, it utilizes dynamic charts, pivot tables, and slicers to provide interactive, actionable insights for management reporting. The objective is to support data-driven decision-making, aligning with MIS responsibilities such as performance tracking, trend analysis, and strategic reporting.
+![Dashboard Screenshot 1 - Income Sources](Dashboard%201%20-%20Income%20Sources.PNG)
+![Dashboard Screenshot 2 - Geographically](Dashboard%202%20-%20Geographically.PNG)
+![Dashboard Screenshot 3 - Sales Process](Dashboard%203%20-%20Sales%20Process.PNG)
+![Dashboard Screenshot 4 - Project Status](Dashboard%204%20-%20Project%20Status.PNG)
 
-This project highlights my expertise in **data analysis**, **MIS reporting**, and **business intelligence visualization**, making it a strong showcase for MIS Analyst opportunities.
+## Project Overview
+This project delivers a comprehensive Excel-based analytics suite tailored for an MIS Analyst role, analyzing financial performance, geographic trends, sales processes, and project workflows. Built entirely in Excel without macros or VBA, it leverages dynamic charts, pivot tables, and slicers to provide interactive, actionable insights for management reporting. The goal is to support data-driven decision-making, aligning with MIS responsibilities such as performance tracking, trend analysis, and strategic reporting.
+
+This project highlights my expertise in **data analysis**, **MIS reporting**, and **business intelligence visualization**, making it a key showcase for MIS Analyst opportunities.
 
 ---
 
 ## Dataset Description
-The dataset, stored in `Datasets.xlsx`, contains raw data fueling the analysis in `Financial_Analytics_Overview.xlsx`. It encompasses key MIS metrics across four dashboards:
+The dataset, stored in `Datasets.xlsx`, contains raw data driving the analysis in `Financial_Analytics_Overview.xlsx`. It encompasses critical MIS metrics across four dashboards:
 
 - **Income Sources**: Detailed breakdown of revenue streams, marketing effectiveness, and goal tracking.
 - **Geographically**: Profit distribution and tax insights by region for regional performance analysis.
@@ -17,14 +22,14 @@ The dataset, stored in `Datasets.xlsx`, contains raw data fueling the analysis i
 
 ### Data Insights
 - Supports multi-year analysis (2020–2025) with dynamic yearly slicer filtering, ideal for trend reporting.
-- Reveals critical patterns in income sources, regional profitability, sales efficiency, and project KPIs.
-- Visualizations underscore dominant revenue channels and geographic priorities for MIS focus.
+- Reveals key patterns in income sources, regional profitability, sales efficiency, and project KPIs.
+- Visualizations highlight dominant revenue channels and geographic priorities for MIS focus.
 
 ---
 
 ## Tools and Technologies
-- **Microsoft Excel**: Employed for data analysis, pivot tables, dynamic dashboards, and visualizations.
-- **Video Recording**: Used to produce `Financial_Analytics_Demo.mp4` for a guided MIS reporting demo.
+- **Microsoft Excel**: Used for data analysis, pivot tables, dynamic dashboards, and visualizations.
+- **Video Recording**: Utilized to create `Financial_Analytics_Demo.mp4` for a guided MIS reporting demo.
 
 ---
 
@@ -89,9 +94,26 @@ For MIS Analyst recruiters, this project demonstrates my proficiency in Excel-ba
 
 ---
 
-## Contact Me
-- **GitHub**: [16parmindersingh](https://github.com/16parmindersingh)
-- **LinkedIn**: [16parmindersingh](www.linkedin/in/16parmindersingh)
-- **Email**: sparminder1608@gmail.com
-## Feel free to reach out for collaboration or MIS-related inquiries!
+## How to Replicate the Analysis
+1. **Open the Workbook**:
+   - Open `Financial_Analytics_Overview.xlsx` in Excel (compatible with Microsoft 365 or 2016+).
+2. **Explore the Dashboards**:
+   - Use yearly slicers to filter data across 2020–2025 and interact with charts.
+3. **Review the Demo**:
+   - Watch `Financial_Analytics_Demo.mp4` for a guided walkthrough of MIS insights.
 
+---
+
+## Contact Me
+For any questions or collaboration opportunities, please reach out to:
+- **GitHub**: [16parmindersingh](https://github.com/16parmindersingh)
+- **LinkedIn**: [16parmindersingh](https://www.linkedin.com/in/16parmindersingh)
+- **Email**: [sparminder1608@gmail.com](mailto:sparminder1608@gmail.com)
+
+---
+
+Thank you for checking out my project! I’m excited to continue enhancing my MIS analytics skills and applying them to real-world challenges. 🚀
+
+---
+
+*Last Updated: 05:00 PM IST, September 29, 2025*
