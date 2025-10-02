@@ -63,7 +63,7 @@ The project delivers a comprehensive Power BI dashboard with actionable insights
 
 ### Geographic and Customer Insights
 - **Regional Distribution**: Maharashtra exceeds 20% of sales, with states like Uttar Pradesh and Madhya Pradesh also significant.
-- **Top Customers**: Harish, Madhav Mohan, and Shiva are top contributors by profit.
+- **Top Customers**: Harish, Madhav,Madan Mohan, and Shiva are top contributors by profit.
 
 ### Business Implications
 - **Category Optimization**: Focus on high-profit sub-categories like Printers and maintain strong performers across all categories.
