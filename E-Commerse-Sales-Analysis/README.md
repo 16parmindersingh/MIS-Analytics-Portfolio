@@ -39,7 +39,7 @@ This project follows a structured approach to analyzing e-commerce sales data us
 
 ### 3. Dashboard Development
 - Created DAX measures (e.g., Total Amount, Sum of Profit by State) and applied filters for dynamic exploration.
-- Designed an interactive dashboard with visualizations like bar charts, pie charts, and maps, captured in `Dashboard.PNG`.
+- Designed an interactive dashboard with visualizations like bar charts, pie charts, and maps, captured in `Dashboard.PNG`. Note: Orange and red colors in charts (except Profit-Loss by Month) are used for aesthetic purposes and do not indicate losses.
 
 ### 4. Insights Generation
 - Extracted trends such as top states, customer performance, and payment mode preferences.
@@ -55,19 +55,21 @@ The project delivers a comprehensive Power BI dashboard with actionable insights
 - **Sales Overview**: Total sales amount of 438K with a profit of 37K across 5,615 units sold.
 - **Top States**: Maharashtra, Madhya Pradesh, Uttar Pradesh, and Delhi lead in sales.
 - **Payment Trends**: COD (44%) dominates, followed by UPI (21%) and Debit Card (13%).
+- **Profit-Loss by Month**: Losses observed only in May, June, July, and December; other months show profits.
 
 ### Category and Product Insights
 - **Category Distribution**: Clothing (63%), Electronics (30%), and Furniture (7%) by quantity.
-- **Profit Trends**: Printers and Bookcases show strong profits, while some items like Tables and Sarees have losses.
+- **Profit Trends**: All categories (Clothing, Electronics, Furniture) show positive sales and profit overall, with sub-categories like Printers and Bookcases performing strongly.
 
 ### Geographic and Customer Insights
 - **Regional Distribution**: Maharashtra exceeds 20% of sales, with states like Uttar Pradesh and Madhya Pradesh also significant.
 - **Top Customers**: Harish, Madhav Mohan, and Shiva are top contributors by profit.
 
 ### Business Implications
-- **Category Optimization**: Focus on high-profit sub-categories like Printers and reduce low-profit items.
+- **Category Optimization**: Focus on high-profit sub-categories like Printers and maintain strong performers across all categories.
 - **Regional Strategy**: Target underperforming states with tailored marketing.
 - **Payment Strategy**: Promote COD and UPI for higher adoption.
+- **Seasonal Adjustment**: Address losses in May, June, July, and December with targeted strategies (e.g., promotions or inventory adjustments).
 
 ---
 
@@ -98,7 +100,7 @@ For recruiters, this project showcases my expertise in **Power BI** and **data-d
 2. **Explore the Dashboard**:
    - Use filters (e.g., Quarters, States) to explore sales metrics.
 3. **Review Insights**:
-   - Check visualizations for trends and regional performance.
+   - Check visualizations for trends and regional performance; note that orange and red colors (except in Profit-Loss by Month) are aesthetic choices.
 
 ---
 
