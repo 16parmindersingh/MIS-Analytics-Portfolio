@@ -54,4 +54,60 @@ The project delivers a comprehensive Power BI dashboard with actionable insights
 ### Overall Sales Performance
 - **Sales Overview**: Total sales amount of 438K with a profit of 37K across 5,615 units sold.
 - **Top States**: Maharashtra, Madhya Pradesh, Uttar Pradesh, and Delhi lead in sales.
-- **Payment Trends**: COD (44%) dominates, followed by UPI (
+- **Payment Trends**: COD (44%) dominates, followed by UPI (21%) and Debit Card (13%).
+
+### Category and Product Insights
+- **Category Distribution**: Clothing (63%), Electronics (30%), and Furniture (7%) by quantity.
+- **Profit Trends**: Printers and Bookcases show strong profits, while some items like Tables and Sarees have losses.
+
+### Geographic and Customer Insights
+- **Regional Distribution**: Maharashtra exceeds 20% of sales, with states like Uttar Pradesh and Madhya Pradesh also significant.
+- **Top Customers**: Harish, Madhav Mohan, and Shiva are top contributors by profit.
+
+### Business Implications
+- **Category Optimization**: Focus on high-profit sub-categories like Printers and reduce low-profit items.
+- **Regional Strategy**: Target underperforming states with tailored marketing.
+- **Payment Strategy**: Promote COD and UPI for higher adoption.
+
+---
+
+## Project Structure
+- **Orders.csv**: Raw order dataset with customer and location details.
+- **Details.csv**: Raw sales dataset with transaction metrics.
+- **E-Commerce Sales Analysis.pbix**: Full Power BI report with dashboard and DAX measures.
+- **Dashboard.PNG**: Screenshot of the interactive dashboard view.
+
+---
+
+## Skills Demonstrated
+This project highlights my ability to:
+- Use **Microsoft Power BI** for data modeling and interactive reporting.
+- Build dashboards with filters, slicers, and advanced visualizations.
+- Analyze sales data to derive actionable insights.
+
+---
+
+## Why This Project Matters
+For recruiters, this project showcases my expertise in **Power BI** and **data-driven decision-making**, key for MIS or analytics roles. For others, it provides a practical example of e-commerce sales analysis using Power BI.
+
+---
+
+## How to Replicate the Analysis
+1. **Open the PBIX File**:
+   - Open `E-Commerce Sales Analysis.pbix` in Power BI Desktop (latest version).
+2. **Explore the Dashboard**:
+   - Use filters (e.g., Quarters, States) to explore sales metrics.
+3. **Review Insights**:
+   - Check visualizations for trends and regional performance.
+
+---
+
+## Contact Me
+For questions or collaboration, reach out to:
+- **GitHub**: [16parmindersingh](https://github.com/16parmindersingh)
+- **Email**: [sparminder1608@gmail.com](mailto:sparminder1608@gmail.com)
+- **LinkedIn**: [16parmindersingh](https://www.linkedin.com/in/16parmindersingh)
+
+---
+
+Thank you for checking out my project! I’m eager to enhance my data analytics skills further. 🚀
