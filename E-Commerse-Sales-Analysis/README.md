@@ -58,7 +58,7 @@ The project delivers a comprehensive Power BI dashboard with actionable insights
 - **Profit-Loss by Month**: Losses observed only in May, June, July, and December; other months show profits.
 
 ### Category and Product Insights
-- **Category Distribution**: Clothing (63%), Electronics (30%), and Furniture (7%) by quantity.
+- **Category Distribution**: Clothing (63%), Electronics (30%), and Furniture (17%) by quantity.
 - **Profit Trends**: All categories (Clothing, Electronics, Furniture) show positive sales and profit overall, with sub-categories like Printers and Bookcases performing strongly.
 
 ### Geographic and Customer Insights
