@@ -15,7 +15,7 @@ The dataset consists of two CSV files:
   - Insight: Covers multiple Indian states with varying customer and order distributions.
 - **Details.csv**: Contains sales details including Order ID, Amount, Profit, Quantity, Category, Sub-Category, and Payment Mode.
   - Sample Data: B-25681, 1096, 658, 7, Electronics, Electronic Games, COD.
-  - Categories: Clothing, Electronics, Furniture.
+  - Categories: Clothing, Electronics, Furniture, etc.
   - Sub-Categories: Saree, Printers, Bookcases, etc.
   - Data Insight: Reflects a mix of profitable and loss-making transactions, with total Amount: 438K, Profit: 37K, Quantity: 5,615, and AOV: 121K.
 
