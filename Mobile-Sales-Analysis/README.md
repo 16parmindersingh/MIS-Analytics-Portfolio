@@ -1,8 +1,8 @@
 # Mobile Sales Analysis Dashboard 📊📱
 
 ![Dashboard Screenshot - Main View](Dashboard.PNG)
-![MTD Report Screenshot](MTD Report.PNG)
-![Same Period Last Year Screenshot](Same Period Last Year.PNG)
+![MTD Report Screenshot](MTD%20Report.PNG)
+![Same Period Last Year Screenshot](Same%20Period%20Last%20Year.PNG)
 
 ## Project Overview
 This project analyzes mobile sales data using **Microsoft Power BI** to create an interactive dashboard with actionable insights, focusing on trends, regional performance, and year-over-year comparisons. By processing raw Excel data and leveraging DAX measures, I addressed business questions on sales performance, top brands, and geographic distribution to support strategic decision-making for mobile sales growth and optimization.
