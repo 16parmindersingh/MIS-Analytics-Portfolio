@@ -5,6 +5,18 @@ This project focuses on analyzing an online bookstore’s sales, customer, and o
 
 The goal of this project is to apply structured database techniques for MIS reporting, highlighting data organization, relationship management, and analytical querying through SQL.
 
+---
+
+## Project Previews
+**PDF Preview:**  
+![PDF Preview](pdf_Screenshot.png)  
+[View Full Project PDF](Online%20Book%20Store%20Analysis.pdf)
+
+**SQL Queries Preview:**  
+![Questions Preview](Questions_Screenshot.png)
+
+---
+
 ## Dataset Description
 The project uses three datasets representing different aspects of the bookstore business:
 
@@ -14,10 +26,14 @@ The project uses three datasets representing different aspects of the bookstore 
 
 These datasets together form a relational structure ideal for MIS-style analysis of sales performance, customer trends, and inventory movement.
 
+---
+
 ## Tools and Technologies
 - **MySQL** – Used for database creation, table setup, data import, and analysis through SQL queries.
 - **Microsoft Excel / CSV** – Used as the raw data source for importing into MySQL.
 - **PDF Presentation** – `Online Book Store Analysis.pdf` contains all executed queries and their results for documentation and visualization.
+
+---
 
 ## What I Did in This Project
 
@@ -42,13 +58,19 @@ These datasets together form a relational structure ideal for MIS-style analysis
 - Compiled the entire analysis into `Online Book Store Analysis.pdf`, containing all queries, results, and SQL outputs in a structured presentation format.
 - Added all supporting files (datasets and SQL script) to the repository for reproducibility.
 
+---
+
 ## Project Structure
 - `Books.csv` – Raw dataset of all available books in the store.
 - `Customers.csv` – Customer database with demographic details.
 - `Orders.csv` – Record of all transactions and purchases.
 - `SQL OnlineBookStore Analysis.sql` – Contains all SQL queries written and executed for this project.
 - `Online Book Store Analysis.pdf` – Full analysis report with queries and results.
+- `pdf_Screenshot.png` – Preview of the PDF report.
+- `Questions_Screenshot.png` – Screenshot showing all 20 queries from basic to advanced.
 - `README.md` – Project documentation file.
+
+---
 
 ## Skills Demonstrated
 This project showcases my ability to:
@@ -57,8 +79,12 @@ This project showcases my ability to:
 - Document SQL-based MIS reports with clear structure and professional presentation.
 - Translate business data into structured insights using SQL techniques.
 
+---
+
 ## Why This Project Matters
 For MIS and Data Analyst roles, this project highlights my understanding of data modeling, SQL querying, and relational database management — all essential for transforming raw business data into meaningful insights. It also demonstrates a structured approach to organizing, documenting, and presenting analytical work suitable for MIS reporting environments.
+
+---
 
 ## How to Replicate the Analysis
 ### Download the Repository Files
@@ -72,6 +98,8 @@ For MIS and Data Analyst roles, this project highlights my understanding of data
 - Open and execute the queries in `SQL OnlineBookStore Analysis.sql`.
 - View and compare your outputs with the documented results in `Online Book Store Analysis.pdf`.
 
+---
+
 ## Contact Me
 For questions, suggestions, or collaboration:
 
@@ -80,4 +108,3 @@ For questions, suggestions, or collaboration:
 - **Email**: [sparminder1608@gmail.com](mailto:sparminder1608@gmail.com)
 
 Thank you for checking out my project! This SQL-based MIS analysis demonstrates how structured database querying can power business insights and decision-making. 🚀
-
