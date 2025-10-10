@@ -9,7 +9,7 @@ The objective is to leverage structured database techniques for MIS reporting, e
 ---
 
 ## Project Preview 
-![PDF Preview](pdf_Screenshot.png)  
+![PDF Preview](pdf_Screenshot.PNG)  
 [View Full Project PDF](retail_sales_analysis.pdf)
 
 
