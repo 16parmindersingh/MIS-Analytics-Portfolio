@@ -1,4 +1,3 @@
-
 # SQL Retail Sales Analysis 📊💼
 
 ## Project Overview
@@ -11,7 +10,6 @@ The objective is to leverage structured database techniques for MIS reporting, e
 ## Project Preview 
 ![PDF Preview](pdf_Screenshot.PNG)  
 [View Full Project PDF](retail_sales_analysis.pdf)
-
 
 ---
 
@@ -71,6 +69,53 @@ This project showcases my ability to:
 - Perform complex SQL queries with joins, window functions, and aggregations.
 - Document MIS reports with a clear structure and professional presentation.
 - Translate raw sales data into actionable business insights.
+
+---
+
+## Key Insights
+Based on the SQL queries and results, here are the main findings:
+
+- **Sales on Specific Dates (e.g., November 5, 2022)**: 11 transactions occurred, primarily in Clothing and Beauty categories, with total sales ranging from 50 to 1200 per transaction. This highlights daily variability in category performance.
+- **High-Volume Clothing Sales in November 2022**: Transactions with quantity >=4 yielded sales up to 2000, indicating strong demand for bulk purchases in Clothing during this period.
+- **Category Performance**:
+  - Electronics led in net sales (311,445) with 678 orders.
+  - Clothing had the highest order volume (698 orders, net sales 309,995).
+  - Beauty followed with 611 orders and net sales of 286,790.
+  - **Insight**: Electronics generates the highest revenue per order, suggesting a focus on high-value items.
+- **Average Age of Beauty Buyers**: 40.42 years, indicating that Beauty products appeal to a middle-aged demographic, which could inform targeted marketing strategies.
+- **High-Value Transactions (>1000)**: Numerous transactions exceeded 1000, often in Electronics and Clothing with quantities of 3-4, emphasizing the importance of premium pricing in driving revenue.
+- **Transactions by Gender and Category**:
+  - Beauty: Female (330), Male (281)
+  - Clothing: Female (347), Male (351)
+  - Electronics: Female (335), Male (343)
+  - **Insight**: Gender distribution is nearly balanced across categories, with a slight male preference in Electronics and Clothing, suggesting inclusive marketing opportunities.
+- **Best-Selling Months**:
+  - 2022: July (average sale 541.34)
+  - 2023: February (average sale 535.53)
+  - **Insight**: Seasonal peaks in mid-year (2022) and early-year (2023) could be tied to promotions or holidays, recommending inventory planning around these periods.
+- **Top 5 Customers by Total Sales**:
+  - Customer ID 3: 38,440
+  - ID 1: 30,750
+  - ID 5: 30,405
+  - ID 2: 25,295
+  - ID 4: 23,580
+  - **Insight**: These loyal customers account for a significant revenue share, warranting VIP programs or personalized offers to retain them.
+- **Unique Customers per Category**:
+  - Beauty: 141
+  - Clothing: 149
+  - Electronics: 144
+  - **Insight**: High customer overlap across categories (total unique: 155) indicates cross-selling potential, with Clothing attracting the broadest base.
+- **Orders by Shift**:
+  - Evening (>17:00): 1062 orders
+  - Morning (<12:00): 548 orders
+  - Afternoon (12:00-17:00): 377 orders
+  - **Insight**: Evening dominates order volume, suggesting extended staffing or promotions during peak hours to capitalize on after-work shopping.
+
+## Overall Business Recommendations
+- **Revenue Optimization**: Focus on Electronics for high-margin sales and promote bulk Clothing purchases.
+- **Customer Engagement**: Target middle-aged buyers for Beauty and leverage balanced gender data for inclusive campaigns.
+- **Operational Efficiency**: Boost evening operations and plan for seasonal peaks in July and February.
+- **Growth Opportunities**: Encourage cross-category purchases and reward top customers to increase loyalty and lifetime value.
 
 ---
 
