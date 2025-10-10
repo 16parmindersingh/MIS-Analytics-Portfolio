@@ -6,17 +6,17 @@ A collection of my management information systems (MIS) projects, showcasing han
 ---
 
 ## Repository Structure
-- **Diwali-Sales-Analysis/**: Analysis of sales data during the Diwali season.
-- **E-Commerse-Sales-Analysis/**: Insights into e-commerce sales performance.
-- **Financial_Analytics_Project/**: Financial data analysis and reporting.
-- **HR-Analytics-Dashboard/**: HR data visualization and workforce insights.
-- **Mobile-Sales-Analysis/**: Analysis of mobile sales trends.
+- **Diwali-Sales-Analysis/**: Python-based analysis of sales data during the Diwali season.
+- **E-Commerse-Sales-Analysis/**: Power BI-driven insights into e-commerce sales performance.
+- **Financial_Analytics_Project/**: Advanced Excel-based financial data analysis and reporting.
+- **HR-Analytics-Dashboard/**: Power BI visualization of HR data and workforce insights.
+- **Mobile-Sales-Analysis/**: Power BI analysis of mobile sales trends.
 - **Online-Book-Store-Analysis/**: SQL analysis of bookstore sales and customer data.
-- **Pizza-Sales-Analysis/**: Examination of pizza sales metrics.
+- **Pizza-Sales-Analysis/**: SQL examination of pizza sales metrics.
 - **Retail-Sales-Analysis/**: SQL-based analysis of retail transaction data.
-- **Sales-Data-Analysis/**: Comprehensive sales data evaluation.
-- **Super-Store-Sales-Analysis/**: Analysis of super store sales performance.
-- **Vrinda-Store-Sales-Analysis/**: Sales analysis for Vrinda Store.
+- **Sales-Data-Analysis/**: Advanced Excel evaluation of comprehensive sales data.
+- **Super-Store-Sales-Analysis/**: Power BI analysis of super store sales performance.
+- **Vrinda-Store-Sales-Analysis/**: Advanced Excel analysis of Vrinda Store sales.
 - **README.md**: This file.
 
 ---
