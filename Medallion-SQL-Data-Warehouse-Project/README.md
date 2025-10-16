@@ -22,7 +22,7 @@ Inspired by **Azure Databricks Medallion** but adapted for **on-prem SQL Server*
 ```
 Medallion-SQL-Data-Warehouse-Project/
 ├── README.md                 # This file
-├── datasets/                 # Raw CSV sources (no README)
+├── datasets/                 # Raw CSV sources
 │   ├── source_crm/
 │   │   ├── cust_info.csv
 │   │   ├── prod_info.csv
@@ -89,7 +89,6 @@ Creates the `DataWarehouse` DB and schemas (`bronze`, `silver`, `gold`).
 :r scripts/bronze/ddl_bronze.sql
 EXEC bronze.load_bronze;
 ```
-📄 Details in `scripts/bronze/README.md`
 
 ---
 
@@ -98,7 +97,6 @@ EXEC bronze.load_bronze;
 :r scripts/silver/ddl_silver.sql
 EXEC silver.load_silver;
 ```
-📄 Details in `scripts/silver/README.md` (includes 6 cleaning scripts)
 
 ---
 
@@ -106,7 +104,6 @@ EXEC silver.load_silver;
 ```sql
 :r scripts/gold/ddl_gold.sql
 ```
-📄 Details in `scripts/gold/README.md` (includes 3 join scripts)
 
 ---
 
@@ -115,7 +112,6 @@ EXEC silver.load_silver;
 :r tests/quality_checks_silver.sql
 :r tests/quality_checks_gold.sql
 ```
-📄 Details in `tests/README.md`
 
 ---
 
