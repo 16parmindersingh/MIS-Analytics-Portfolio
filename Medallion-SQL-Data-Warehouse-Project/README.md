@@ -1,3 +1,5 @@
+![Project Banner](docs/data_architecture.png)
+
 # 🏗️ Medallion SQL Data Warehouse Project
 
 ## 📘 Overview
