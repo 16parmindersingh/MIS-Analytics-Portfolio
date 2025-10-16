@@ -55,6 +55,7 @@ Medallion-SQL-Data-Warehouse-Project/
 │   │   ├── 2_join_tables_for_gold_dim_products.sql
 │   │   ├── 3_join_tables_for_gold_fact_sales.sql
 │   │   └── ddl_gold.sql
+│   │   └── README.md         # Data Catalog for Gold Layer
 │   └── init_database.sql     # Setup DB/schemas
 └── tests/                    # Data quality checks
     ├── quality_checks_gold.sql
