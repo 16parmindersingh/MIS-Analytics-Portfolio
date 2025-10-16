@@ -33,12 +33,11 @@ Medallion-SQL-Data-Warehouse-Project/
 │       └── PX_CAT_G1V2.csv
 ├── docs/                     # Diagrams (referenced here)
 │   ├── ETL.png
-│   ├── README.md
 │   ├── data_architecture.png
 │   ├── data_flow.png
 │   ├── data_integration.png
 │   └── data_model.png
-├── scripts/                  # ETL scripts (see sub-READMEs)
+├── scripts/                  # ETL scripts
 │   ├── bronze/               # Raw load
 │   │   ├── ddl_bronze.sql
 │   │   └── proc_load_bronze.sql
