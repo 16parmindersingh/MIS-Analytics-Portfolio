@@ -161,3 +161,14 @@ Inspired by:
 - [Databricks Medallion Architecture Documentation](https://learn.microsoft.com/en-us/azure/databricks/)
 - **Analytics Career Connect** learning resources
 
+---
+
+## Contact Me
+For any questions or collaboration opportunities, please reach out to:
+- **GitHub**: [16parmindersingh](https://github.com/16parmindersingh)
+- **LinkedIn**: [16parmindersingh](https://www.linkedin.com/in/16parmindersingh)
+- **Email**: [sparminder1608@gmail.com](mailto:sparminder1608@gmail.com)
+
+---
+
+Thank you for checking out my project! I’m excited to continue enhancing my MIS analytics skills and applying them to real-world challenges. 🚀
